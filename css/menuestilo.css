@@ -1,0 +1,112 @@
+
+body{
+    background:url('https://k37.kn3.net/taringa/4/3/2/1/8/5/9/feedde_/31A.jpg') no-repeat;
+}
+
+#menu_desplegable li{
+    list-style:none;
+    height:39px;
+    padding:2px;
+    width:40px;
+}
+
+#menu_desplegable span{
+
+    width:0;
+    left:38px;
+    padding:0;
+    position:absolute;
+    overflow:hidden;
+    font-family:'Myriad Pro',Arial, Helvetica, sans-serif;
+    font-size:18px;
+    font-weight:bold;
+    letter-spacing:0.6px;
+    white-space:nowrap;
+    line-height:39px;
+    -webkit-transition: 0.25s;
+}
+
+#menu_desplegable .ej1{
+    background:url('https://image.flaticon.com/icons/svg/188/188234.svg') no-repeat;
+    height:39px;
+    width:38px;
+    display:block;
+    position:relative;
+}
+
+#menu_desplegable .ej2{
+    background:url('https://image.flaticon.com/icons/svg/188/188235.svg') no-repeat;
+    height:39px;
+    width:38px;
+    display:block;
+    position:relative;
+}
+
+#menu_desplegable .ej3{
+    background:url('https://image.flaticon.com/icons/svg/188/188236.svg') no-repeat;
+    height:39px;
+    width:38px;
+    display:block;
+    position:relative;
+}
+
+#menu_desplegable .ej4{
+    background:url('https://image.flaticon.com/icons/svg/188/188237.svg') no-repeat;
+    height:39px;
+    width:38px;
+    display:block;
+    position:relative;
+}
+
+#menu_desplegable .ej5{
+    background:url('https://image.flaticon.com/icons/svg/188/188238.svg') no-repeat;
+    height:39px;
+    width:38px;
+    display:block;
+    position:relative;
+}
+
+#menu_desplegable .ej6{
+    background:url('https://image.flaticon.com/icons/svg/188/188239.svg') no-repeat;
+    height:39px;
+    width:38px;
+    display:block;
+    position:relative;
+}
+
+#menu_desplegable a:hover span{
+    width:auto; padding:0 20px;
+    overflow:visible;
+}
+
+#menu_desplegable a:hover{
+    text-decoration:none;
+    -moz-box-shadow:0 0 5px #9ddff5;
+    -webkit-box-shadow:0 0 5px #9ddff5;
+    box-shadow:0 0 5px #9ddff5;
+}
+
+#menu_desplegable { background-position:0 0;}
+#menu_desplegable:hover {   background-position:0 -39px;}
+#menu_desplegable span{
+    background-color:#7da315;
+    color:#3d4f0c;
+    text-shadow:1px 1px 0 #99bf31;
+}
+
+header h1{
+
+    font-family: Arial, Helvetica, Sans-serif;
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+}
+
+header h2{
+    font-family: Arial, Helvetica, Sans-serif;
+    color: white;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+}
